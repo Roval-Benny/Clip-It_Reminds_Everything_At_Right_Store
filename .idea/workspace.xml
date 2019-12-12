@@ -257,48 +257,6 @@
       <option name="presentableId" value="Default" />
       <updated>1546922514703</updated>
     </task>
-    <task id="LOCAL-00015" summary="activity instruction">
-      <created>1576131218614</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1576131218614</updated>
-    </task>
-    <task id="LOCAL-00016" summary="activity login">
-      <created>1576131296666</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1576131296666</updated>
-    </task>
-    <task id="LOCAL-00017" summary="activity login home">
-      <created>1576131326443</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1576131326443</updated>
-    </task>
-    <task id="LOCAL-00018" summary="activity login main">
-      <created>1576131355045</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1576131355045</updated>
-    </task>
-    <task id="LOCAL-00019" summary="activity message view detail">
-      <created>1576131389486</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1576131389486</updated>
-    </task>
-    <task id="LOCAL-00020" summary="activity messaging">
-      <created>1576131413446</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1576131413446</updated>
-    </task>
     <task id="LOCAL-00021" summary="activity pending">
       <created>1576131445908</created>
       <option name="number" value="00021" />
@@ -600,7 +558,49 @@
       <option name="project" value="LOCAL" />
       <updated>1576133464509</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="create">
+      <created>1576133485555</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133485555</updated>
+    </task>
+    <task id="LOCAL-00065" summary="create">
+      <created>1576133514897</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133514897</updated>
+    </task>
+    <task id="LOCAL-00066" summary="json database">
+      <created>1576133577637</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133577637</updated>
+    </task>
+    <task id="LOCAL-00067" summary="delete">
+      <created>1576133622237</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133622237</updated>
+    </task>
+    <task id="LOCAL-00068" summary="delete">
+      <created>1576133652901</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133652901</updated>
+    </task>
+    <task id="LOCAL-00069" summary="firebase">
+      <created>1576133714638</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133714638</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -719,8 +719,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="activity child item card for bottom" />
-    <MESSAGE value="activity child item card for bottom2" />
     <MESSAGE value="content main" />
     <MESSAGE value="create new card" />
     <MESSAGE value="cards" />
@@ -739,12 +737,14 @@
     <MESSAGE value="app" />
     <MESSAGE value="distance" />
     <MESSAGE value="foreground" />
-    <MESSAGE value="json database" />
     <MESSAGE value="json download" />
     <MESSAGE value="near shop" />
     <MESSAGE value="stop alarm" />
     <MESSAGE value="create" />
-    <option name="LAST_COMMIT_MESSAGE" value="create" />
+    <MESSAGE value="json database" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="firebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="firebase" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
