@@ -257,76 +257,6 @@
       <option name="presentableId" value="Default" />
       <updated>1546922514703</updated>
     </task>
-    <task id="LOCAL-00037" summary="last">
-      <created>1576132249285</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132249285</updated>
-    </task>
-    <task id="LOCAL-00038" summary="message">
-      <created>1576132285884</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132285884</updated>
-    </task>
-    <task id="LOCAL-00039" summary="parent">
-      <created>1576132349286</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132349286</updated>
-    </task>
-    <task id="LOCAL-00040" summary="parent">
-      <created>1576132378611</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132378611</updated>
-    </task>
-    <task id="LOCAL-00041" summary="parent">
-      <created>1576132408657</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132408657</updated>
-    </task>
-    <task id="LOCAL-00042" summary="parent">
-      <created>1576132430676</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132430676</updated>
-    </task>
-    <task id="LOCAL-00043" summary="menu">
-      <created>1576132511980</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132511980</updated>
-    </task>
-    <task id="LOCAL-00044" summary="mipmap">
-      <created>1576132553457</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132553457</updated>
-    </task>
-    <task id="LOCAL-00045" summary="mipmap">
-      <created>1576132580248</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132580248</updated>
-    </task>
-    <task id="LOCAL-00046" summary="mipmap">
-      <created>1576132621959</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1576132621959</updated>
-    </task>
     <task id="LOCAL-00047" summary="mipmap">
       <created>1576132645604</created>
       <option name="number" value="00047" />
@@ -600,7 +530,77 @@
       <option name="project" value="LOCAL" />
       <updated>1576134228829</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="login">
+      <created>1576134266977</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134266977</updated>
+    </task>
+    <task id="LOCAL-00087" summary="login">
+      <created>1576134284587</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134284587</updated>
+    </task>
+    <task id="LOCAL-00088" summary="login">
+      <created>1576134305524</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134305524</updated>
+    </task>
+    <task id="LOCAL-00089" summary="login">
+      <created>1576134324336</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134324336</updated>
+    </task>
+    <task id="LOCAL-00090" summary="login">
+      <created>1576134347279</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134347279</updated>
+    </task>
+    <task id="LOCAL-00091" summary="login">
+      <created>1576134370892</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134370892</updated>
+    </task>
+    <task id="LOCAL-00092" summary="login">
+      <created>1576134388945</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134388945</updated>
+    </task>
+    <task id="LOCAL-00093" summary="message">
+      <created>1576134430097</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134430097</updated>
+    </task>
+    <task id="LOCAL-00094" summary="message">
+      <created>1576134451330</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134451330</updated>
+    </task>
+    <task id="LOCAL-00095" summary="message">
+      <created>1576134471902</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134471902</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -719,9 +719,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fragments" />
     <MESSAGE value="last" />
-    <MESSAGE value="message" />
     <MESSAGE value="parent" />
     <MESSAGE value="menu" />
     <MESSAGE value="mipmap" />
@@ -744,7 +742,9 @@
     <MESSAGE value="global" />
     <MESSAGE value="help" />
     <MESSAGE value="home" />
-    <option name="LAST_COMMIT_MESSAGE" value="home" />
+    <MESSAGE value="login" />
+    <MESSAGE value="message" />
+    <option name="LAST_COMMIT_MESSAGE" value="message" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
