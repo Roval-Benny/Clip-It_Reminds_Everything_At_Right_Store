@@ -390,7 +390,35 @@
       <option name="project" value="LOCAL" />
       <updated>1576131389486</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="activity messaging">
+      <created>1576131413446</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131413446</updated>
+    </task>
+    <task id="LOCAL-00021" summary="activity pending">
+      <created>1576131445908</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131445908</updated>
+    </task>
+    <task id="LOCAL-00022" summary="activity phone verify">
+      <created>1576131477537</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131477537</updated>
+    </task>
+    <task id="LOCAL-00023" summary="activity profile create">
+      <created>1576131647663</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131647663</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -525,7 +553,11 @@
     <MESSAGE value="activity login home" />
     <MESSAGE value="activity login main" />
     <MESSAGE value="activity message view detail" />
-    <option name="LAST_COMMIT_MESSAGE" value="activity message view detail" />
+    <MESSAGE value="activity messaging" />
+    <MESSAGE value="activity pending" />
+    <MESSAGE value="activity phone verify" />
+    <MESSAGE value="activity profile create" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity profile create" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
