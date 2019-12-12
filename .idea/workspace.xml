@@ -258,41 +258,6 @@
       <option name="presentableId" value="Default" />
       <updated>1546922514703</updated>
     </task>
-    <task id="LOCAL-00054" summary="archive recycler view">
-      <created>1576133179300</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1576133179300</updated>
-    </task>
-    <task id="LOCAL-00055" summary="alarm receiver">
-      <created>1576133221051</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1576133221051</updated>
-    </task>
-    <task id="LOCAL-00056" summary="app">
-      <created>1576133246921</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1576133246921</updated>
-    </task>
-    <task id="LOCAL-00057" summary="distance">
-      <created>1576133270489</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1576133270489</updated>
-    </task>
-    <task id="LOCAL-00058" summary="foreground">
-      <created>1576133303867</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1576133303867</updated>
-    </task>
     <task id="LOCAL-00059" summary="json database">
       <created>1576133334598</created>
       <option name="number" value="00059" />
@@ -601,7 +566,42 @@
       <option name="project" value="LOCAL" />
       <updated>1576134721703</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="tabbed">
+      <created>1576134761097</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134761097</updated>
+    </task>
+    <task id="LOCAL-00104" summary="tabbed">
+      <created>1576134789347</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134789347</updated>
+    </task>
+    <task id="LOCAL-00105" summary="tabbed">
+      <created>1576134809054</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134809054</updated>
+    </task>
+    <task id="LOCAL-00106" summary="tabbed">
+      <created>1576134832031</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134832031</updated>
+    </task>
+    <task id="LOCAL-00107" summary="tabbed">
+      <created>1576134850885</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1576134850886</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -720,7 +720,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="menu" />
     <MESSAGE value="mipmap" />
     <MESSAGE value="transition" />
     <MESSAGE value="values" />
@@ -745,7 +744,8 @@
     <MESSAGE value="message" />
     <MESSAGE value="recent" />
     <MESSAGE value="settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings" />
+    <MESSAGE value="tabbed" />
+    <option name="LAST_COMMIT_MESSAGE" value="tabbed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
