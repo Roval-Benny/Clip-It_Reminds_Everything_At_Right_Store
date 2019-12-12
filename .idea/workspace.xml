@@ -467,7 +467,49 @@
       <option name="project" value="LOCAL" />
       <updated>1576131902675</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="activity child item card for bottom">
+      <created>1576131930486</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131930486</updated>
+    </task>
+    <task id="LOCAL-00032" summary="activity child item card for bottom2">
+      <created>1576131958830</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131958830</updated>
+    </task>
+    <task id="LOCAL-00033" summary="content main">
+      <created>1576131986497</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131986497</updated>
+    </task>
+    <task id="LOCAL-00034" summary="create new card">
+      <created>1576132022461</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132022461</updated>
+    </task>
+    <task id="LOCAL-00035" summary="cards">
+      <created>1576132111159</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132111159</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fragments">
+      <created>1576132169532</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132169532</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -586,12 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new files added" />
-    <MESSAGE value="sub files added" />
-    <MESSAGE value="src" />
-    <MESSAGE value="fonts" />
-    <MESSAGE value="animations" />
-    <MESSAGE value="animators" />
     <MESSAGE value="drawable" />
     <MESSAGE value="drawable 2" />
     <MESSAGE value="drawable v24" />
@@ -611,7 +647,13 @@
     <MESSAGE value="activity app bar main" />
     <MESSAGE value="activity child" />
     <MESSAGE value="activity child item card" />
-    <option name="LAST_COMMIT_MESSAGE" value="activity child item card" />
+    <MESSAGE value="activity child item card for bottom" />
+    <MESSAGE value="activity child item card for bottom2" />
+    <MESSAGE value="content main" />
+    <MESSAGE value="create new card" />
+    <MESSAGE value="cards" />
+    <MESSAGE value="fragments" />
+    <option name="LAST_COMMIT_MESSAGE" value="fragments" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
