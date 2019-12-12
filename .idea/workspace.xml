@@ -418,7 +418,56 @@
       <option name="project" value="LOCAL" />
       <updated>1576131647663</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="activity settings">
+      <created>1576131672008</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131672008</updated>
+    </task>
+    <task id="LOCAL-00025" summary="activity splash screen">
+      <created>1576131706751</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131706751</updated>
+    </task>
+    <task id="LOCAL-00026" summary="activity tabbed view bottom sheet">
+      <created>1576131741460</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131741460</updated>
+    </task>
+    <task id="LOCAL-00027" summary="activity view category main">
+      <created>1576131807483</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131807483</updated>
+    </task>
+    <task id="LOCAL-00028" summary="activity app bar main">
+      <created>1576131843606</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131843606</updated>
+    </task>
+    <task id="LOCAL-00029" summary="activity child">
+      <created>1576131874502</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131874502</updated>
+    </task>
+    <task id="LOCAL-00030" summary="activity child item card">
+      <created>1576131902675</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131902675</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -537,8 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated version" />
-    <MESSAGE value="update ArchiveFragment File" />
     <MESSAGE value="new files added" />
     <MESSAGE value="sub files added" />
     <MESSAGE value="src" />
@@ -557,7 +604,14 @@
     <MESSAGE value="activity pending" />
     <MESSAGE value="activity phone verify" />
     <MESSAGE value="activity profile create" />
-    <option name="LAST_COMMIT_MESSAGE" value="activity profile create" />
+    <MESSAGE value="activity settings" />
+    <MESSAGE value="activity splash screen" />
+    <MESSAGE value="activity tabbed view bottom sheet" />
+    <MESSAGE value="activity view category main" />
+    <MESSAGE value="activity app bar main" />
+    <MESSAGE value="activity child" />
+    <MESSAGE value="activity child item card" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity child item card" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
