@@ -509,7 +509,42 @@
       <option name="project" value="LOCAL" />
       <updated>1576132169532</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="last">
+      <created>1576132249285</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132249285</updated>
+    </task>
+    <task id="LOCAL-00038" summary="message">
+      <created>1576132285884</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132285884</updated>
+    </task>
+    <task id="LOCAL-00039" summary="parent">
+      <created>1576132349286</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132349286</updated>
+    </task>
+    <task id="LOCAL-00040" summary="parent">
+      <created>1576132378611</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132378611</updated>
+    </task>
+    <task id="LOCAL-00041" summary="parent">
+      <created>1576132408657</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132408657</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -628,9 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="drawable" />
-    <MESSAGE value="drawable 2" />
-    <MESSAGE value="drawable v24" />
     <MESSAGE value="activity instruction" />
     <MESSAGE value="activity login" />
     <MESSAGE value="activity login home" />
@@ -653,7 +685,10 @@
     <MESSAGE value="create new card" />
     <MESSAGE value="cards" />
     <MESSAGE value="fragments" />
-    <option name="LAST_COMMIT_MESSAGE" value="fragments" />
+    <MESSAGE value="last" />
+    <MESSAGE value="message" />
+    <MESSAGE value="parent" />
+    <option name="LAST_COMMIT_MESSAGE" value="parent" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
