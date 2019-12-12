@@ -15,7 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b2eb-aa9d-4fa0-baf0-dc43f3cab7da" name="Default Changelist" comment="values" />
+    <list default="true" id="9008b2eb-aa9d-4fa0-baf0-dc43f3cab7da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,34 +256,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546922514703</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update ArchiveFragment File">
-      <created>1576127005449</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1576127005449</updated>
-    </task>
-    <task id="LOCAL-00004" summary="new files added">
-      <created>1576129762109</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1576129762109</updated>
-    </task>
-    <task id="LOCAL-00005" summary="sub files added">
-      <created>1576130161589</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1576130161589</updated>
-    </task>
-    <task id="LOCAL-00006" summary="sub files added">
-      <created>1576130199043</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1576130199043</updated>
     </task>
     <task id="LOCAL-00007" summary="sub files added">
       <created>1576130454412</created>
@@ -600,7 +572,35 @@
       <option name="project" value="LOCAL" />
       <updated>1576132779017</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="main activity">
+      <created>1576132999417</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1576132999417</updated>
+    </task>
+    <task id="LOCAL-00053" summary="archive fragment">
+      <created>1576133146073</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133146073</updated>
+    </task>
+    <task id="LOCAL-00054" summary="archive recycler view">
+      <created>1576133179300</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133179300</updated>
+    </task>
+    <task id="LOCAL-00055" summary="alarm receiver">
+      <created>1576133221051</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1576133221051</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -719,10 +719,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="activity message view detail" />
-    <MESSAGE value="activity messaging" />
-    <MESSAGE value="activity pending" />
-    <MESSAGE value="activity phone verify" />
     <MESSAGE value="activity profile create" />
     <MESSAGE value="activity settings" />
     <MESSAGE value="activity splash screen" />
@@ -744,7 +740,11 @@
     <MESSAGE value="mipmap" />
     <MESSAGE value="transition" />
     <MESSAGE value="values" />
-    <option name="LAST_COMMIT_MESSAGE" value="values" />
+    <MESSAGE value="main activity" />
+    <MESSAGE value="archive fragment" />
+    <MESSAGE value="archive recycler view" />
+    <MESSAGE value="alarm receiver" />
+    <option name="LAST_COMMIT_MESSAGE" value="alarm receiver" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
