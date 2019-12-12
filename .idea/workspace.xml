@@ -15,9 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b2eb-aa9d-4fa0-baf0-dc43f3cab7da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9008b2eb-aa9d-4fa0-baf0-dc43f3cab7da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +306,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576130454413</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="src">
+      <created>1576130676737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576130676737</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fonts">
+      <created>1576130802898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576130802898</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -431,7 +443,9 @@
     <MESSAGE value="update ArchiveFragment File" />
     <MESSAGE value="new files added" />
     <MESSAGE value="sub files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="sub files added" />
+    <MESSAGE value="src" />
+    <MESSAGE value="fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="fonts" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
