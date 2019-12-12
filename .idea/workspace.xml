@@ -355,7 +355,42 @@
       <option name="project" value="LOCAL" />
       <updated>1576131157179</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="activity instruction">
+      <created>1576131218614</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131218614</updated>
+    </task>
+    <task id="LOCAL-00016" summary="activity login">
+      <created>1576131296666</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131296666</updated>
+    </task>
+    <task id="LOCAL-00017" summary="activity login home">
+      <created>1576131326443</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131326443</updated>
+    </task>
+    <task id="LOCAL-00018" summary="activity login main">
+      <created>1576131355045</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131355045</updated>
+    </task>
+    <task id="LOCAL-00019" summary="activity message view detail">
+      <created>1576131389486</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131389486</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -485,7 +520,12 @@
     <MESSAGE value="drawable" />
     <MESSAGE value="drawable 2" />
     <MESSAGE value="drawable v24" />
-    <option name="LAST_COMMIT_MESSAGE" value="drawable v24" />
+    <MESSAGE value="activity instruction" />
+    <MESSAGE value="activity login" />
+    <MESSAGE value="activity login home" />
+    <MESSAGE value="activity login main" />
+    <MESSAGE value="activity message view detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity message view detail" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
