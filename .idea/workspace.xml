@@ -15,7 +15,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9008b2eb-aa9d-4fa0-baf0-dc43f3cab7da" name="Default Changelist" comment="" />
+    <list default="true" id="9008b2eb-aa9d-4fa0-baf0-dc43f3cab7da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +128,13 @@
             <path>
               <item name="Clip-It_Reminds_Everything_At_Right_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name=" Clip-It_Reminds_Everything_At_Right_Store" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clip-It_Reminds_Everything_At_Right_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name=" Clip-It_Reminds_Everything_At_Right_Store" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,6 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="fragment_create_new_&#9;FILE&#9;file://C:/Local Disk E/ClipIt/Clip-it New/Clip-It  - Reminds Everything At Right Store1/app/src/main/res/layout/fragment_create_new_.xml&#10;app_bar_main&#9;FILE&#9;file://C:/Local Disk E/ClipIt/Clip-it New/Clip-It  - Reminds Everything At Right Store1/app/src/main/res/layout/app_bar_main.xml&#10;activity_splash__screen&#9;FILE&#9;file://C:/Local Disk E/ClipIt/Clip-it New/Clip-It  - Reminds Everything At Right Store1/app/src/main/res/layout/activity_splash__screen.xml&#10;fragment_archive_&#9;FILE&#9;file://C:/Local Disk E/ClipIt/Clip-it New/Clip-It  - Reminds Everything At Right Store1/app/src/main/res/layout/fragment_archive_.xml&#10;new_material_strong_blue_100&#9;PSI&#9;JAVA://com.clipit.cliptit2.R.color#new_material_strong_blue_100&#10;fragment_home_fragmet&#9;FILE&#9;file://C:/Local Disk E/ClipIt/Clip-it New/Clip-It  - Reminds Everything At Right Store1/app/src/main/res/layout/fragment_home_fragmet.xml" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
@@ -278,7 +287,28 @@
       <option name="project" value="LOCAL" />
       <updated>1576129762109</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sub files added">
+      <created>1576130161589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576130161589</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sub files added">
+      <created>1576130199043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576130199043</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sub files added">
+      <created>1576130454412</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576130454413</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -400,7 +430,8 @@
     <MESSAGE value="Updated version" />
     <MESSAGE value="update ArchiveFragment File" />
     <MESSAGE value="new files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
+    <MESSAGE value="sub files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sub files added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_fragmet.xml" />
