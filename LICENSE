@@ -636,7 +636,7 @@ the "copyright" line and a pointer to where the full notice is found.
       except selecting locations. We mainly focus on informing the user
       what are the listed items to buy when user is near to the proposed shops.>
 
-    Copyright (C) <2018>  <Royal Benny>
+    Copyright (C) <2019>  <Roval Benny>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -656,7 +656,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <Clip-It>  Copyright (C) <2018>  <Royal Benny>
+    <Clip-It>  Copyright (C) <2019>  <Roval Benny>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
